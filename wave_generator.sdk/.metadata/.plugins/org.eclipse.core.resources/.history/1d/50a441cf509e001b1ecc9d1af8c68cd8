@@ -1,0 +1,24 @@
+/*******************************************************************************************
+ * Author:	Ussash Arafat
+ * Project:	wave_generator
+ * File:	wave-generator_app.c
+ * Tools:  	Vivado 2019.1
+ * 		  	Xilinx SDK 2019.1
+ * Device: 	Zedboard
+ ********************************************************************************************/
+
+#include <stdio.h>
+#include "platform.h"
+#include "xil_printf.h"
+#include "xil_io.h"
+
+int main()
+{
+    init_platform();
+    short finalValue, dropValue, hValue, vValue, period;
+    finalValue = 0x1234;
+    print("%d", finalValue);
+
+    cleanup_platform();
+    return 0;
+}

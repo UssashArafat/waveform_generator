@@ -1,0 +1,1411 @@
+17:38:50 **** Build of project wave_generator_app_bsp ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/bram_v4_3/src"
+make -C ps7_cortexa9_0/libsrc/bram_v4_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_0/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v4_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_0/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v7_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make libs in ps7_cortexa9_0/libsrc/bram_v4_3/src"
+make -C ps7_cortexa9_0/libsrc/bram_v4_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling bram"
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling coresightps_dcc"
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling ddrps"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v4_0/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v4_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v7_0/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v7_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling standalone"
+In file included from usleep.c:56:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xil_sleeptimer.c:51:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xtime_l.c:49:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from sleep.c:53:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling xadcps"
+'Finished building libraries'
+17:39:22 **** Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19064	   1144	  22568	  42776	   a718	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+17:39:39 **** Clean-only build of configuration Debug for project wave_generator_app ****
+make clean 
+rm -rf  ./src/helloworld.o ./src/platform.o  ./src/helloworld.d ./src/platform.d  wave_generator_app.elf.size  wave_generator_app.elf
+' '
+17:39:40 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19064	   1144	  22568	  42776	   a718	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+17:48:26 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19064	   1144	  22568	  42776	   a718	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+17:52:38 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19064	   1144	  22568	  42776	   a718	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+17:52:45 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+17:57:34 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+17:57:48 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+18:12:03 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+../src/wave_generator_app.c: In function 'main':
+../src/wave_generator_app.c:19:24: error: expected ';' before 'print'
+     finalValue = 0x1234
+                        ^
+                        ;
+     print("%d", finalValue);
+     ~~~~~               
+../src/wave_generator_app.c:18:50: warning: unused variable 'period' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                                  ^~~~~~
+../src/wave_generator_app.c:18:42: warning: unused variable 'vValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                          ^~~~~~
+../src/wave_generator_app.c:18:34: warning: unused variable 'hValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                  ^~~~~~
+../src/wave_generator_app.c:18:23: warning: unused variable 'dropValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                       ^~~~~~~~~
+../src/wave_generator_app.c:18:11: warning: variable 'finalValue' set but not used [-Wunused-but-set-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+           ^~~~~~~~~~
+make: *** [src/subdir.mk:26: src/wave_generator_app.o] Error 1
+18:12:12 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+../src/wave_generator_app.c: In function 'main':
+../src/wave_generator_app.c:20:5: error: too many arguments to function 'print'
+     print("%d", finalValue);
+     ^~~~~
+In file included from ../src/wave_generator_app.c:12:
+../../wave_generator_app_bsp/ps7_cortexa9_0/include/xil_printf.h:40:6: note: declared here
+ void print( const char8 *ptr);
+      ^~~~~
+../src/wave_generator_app.c:18:50: warning: unused variable 'period' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                                  ^~~~~~
+../src/wave_generator_app.c:18:42: warning: unused variable 'vValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                          ^~~~~~
+../src/wave_generator_app.c:18:34: warning: unused variable 'hValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                  ^~~~~~
+../src/wave_generator_app.c:18:23: warning: unused variable 'dropValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                       ^~~~~~~~~
+make: *** [src/subdir.mk:26: src/wave_generator_app.o] Error 1
+18:12:27 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+../src/wave_generator_app.c: In function 'main':
+../src/wave_generator_app.c:20:5: error: too many arguments to function 'print'
+     print("%d",finalValue);
+     ^~~~~
+In file included from ../src/wave_generator_app.c:12:
+../../wave_generator_app_bsp/ps7_cortexa9_0/include/xil_printf.h:40:6: note: declared here
+ void print( const char8 *ptr);
+      ^~~~~
+../src/wave_generator_app.c:18:50: warning: unused variable 'period' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                                  ^~~~~~
+../src/wave_generator_app.c:18:42: warning: unused variable 'vValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                          ^~~~~~
+../src/wave_generator_app.c:18:34: warning: unused variable 'hValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                  ^~~~~~
+../src/wave_generator_app.c:18:23: warning: unused variable 'dropValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                       ^~~~~~~~~
+make: *** [src/subdir.mk:26: src/wave_generator_app.o] Error 1
+18:12:36 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+../src/wave_generator_app.c: In function 'main':
+../src/wave_generator_app.c:18:50: warning: unused variable 'period' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                                  ^~~~~~
+../src/wave_generator_app.c:18:42: warning: unused variable 'vValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                          ^~~~~~
+../src/wave_generator_app.c:18:34: warning: unused variable 'hValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                  ^~~~~~
+../src/wave_generator_app.c:18:23: warning: unused variable 'dropValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                       ^~~~~~~~~
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56492	   2584	  23328	  82404	  141e4	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+18:12:54 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+18:13:28 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+../src/wave_generator_app.c: In function 'main':
+../src/wave_generator_app.c:19:18: warning: overflow in conversion from 'int' to 'short int' changes value from '1118772' to '4660' [-Woverflow]
+     finalValue = 0x111234;
+                  ^~~~~~~~
+../src/wave_generator_app.c:18:50: warning: unused variable 'period' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                                  ^~~~~~
+../src/wave_generator_app.c:18:42: warning: unused variable 'vValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                          ^~~~~~
+../src/wave_generator_app.c:18:34: warning: unused variable 'hValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                  ^~~~~~
+../src/wave_generator_app.c:18:23: warning: unused variable 'dropValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                       ^~~~~~~~~
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56492	   2584	  23328	  82404	  141e4	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+18:13:36 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+18:13:54 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+18:14:21 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+../src/wave_generator_app.c: In function 'main':
+../src/wave_generator_app.c:19:18: warning: overflow in conversion from 'int' to 'short int' changes value from '1192977' to '13329' [-Woverflow]
+     finalValue = 0x123411;
+                  ^~~~~~~~
+../src/wave_generator_app.c:18:50: warning: unused variable 'period' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                                  ^~~~~~
+../src/wave_generator_app.c:18:42: warning: unused variable 'vValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                          ^~~~~~
+../src/wave_generator_app.c:18:34: warning: unused variable 'hValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                                  ^~~~~~
+../src/wave_generator_app.c:18:23: warning: unused variable 'dropValue' [-Wunused-variable]
+     short finalValue, dropValue, hValue, vValue, period;
+                       ^~~~~~~~~
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56492	   2584	  23328	  82404	  141e4	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+18:14:29 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+18:19:55 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+../src/wave_generator_app.c: In function 'main':
+../src/wave_generator_app.c:26:24: warning: unknown conversion type character 'b' in format [-Wformat=]
+  printf("finalValue = %b", finalValue);
+                        ^
+../src/wave_generator_app.c:26:9: warning: too many arguments for format [-Wformat-extra-args]
+  printf("finalValue = %b", finalValue);
+         ^~~~~~~~~~~~~~~~~
+../src/wave_generator_app.c:25:8: warning: unused variable 'period' [-Wunused-variable]
+  short period = 100;
+        ^~~~~~
+../src/wave_generator_app.c:24:8: warning: unused variable 'vValue' [-Wunused-variable]
+  short vValue = 5;
+        ^~~~~~
+../src/wave_generator_app.c:23:8: warning: unused variable 'hValue' [-Wunused-variable]
+  short hValue = 10;
+        ^~~~~~
+../src/wave_generator_app.c:22:8: warning: unused variable 'dropValue' [-Wunused-variable]
+  short dropValue = 150;
+        ^~~~~~~~~
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56508	   2584	  23328	  82420	  141f4	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+18:20:14 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+18:20:30 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+../src/wave_generator_app.c: In function 'main':
+../src/wave_generator_app.c:25:8: warning: unused variable 'period' [-Wunused-variable]
+  short period = 100;
+        ^~~~~~
+../src/wave_generator_app.c:24:8: warning: unused variable 'vValue' [-Wunused-variable]
+  short vValue = 5;
+        ^~~~~~
+../src/wave_generator_app.c:23:8: warning: unused variable 'hValue' [-Wunused-variable]
+  short hValue = 10;
+        ^~~~~~
+../src/wave_generator_app.c:22:8: warning: unused variable 'dropValue' [-Wunused-variable]
+  short dropValue = 150;
+        ^~~~~~~~~
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56508	   2584	  23328	  82420	  141f4	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+18:20:38 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:04:35 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+../src/wave_generator_app.c: In function 'main':
+../src/wave_generator_app.c:37:19: error: 'hvalue' undeclared (first use in this function); did you mean 'hValue'?
+   for (int j=0; j<hvalue; j++){
+                   ^~~~~~
+                   hValue
+../src/wave_generator_app.c:37:19: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/subdir.mk:26: src/wave_generator_app.o] Error 1
+21:04:51 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19804	   1144	  22568	  43516	   a9fc	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+21:29:51 **** Clean-only build of configuration Debug for project wave_generator_app ****
+make clean 
+rm -rf  ./src/platform.o ./src/wave_generator_app.o  ./src/platform.d ./src/wave_generator_app.d  wave_generator_app.elf.size  wave_generator_app.elf
+' '
+21:29:51 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19804	   1144	  22568	  43516	   a9fc	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+21:29:58 **** Clean-only build of configuration Debug for project wave_generator_app ****
+make clean 
+rm -rf  ./src/platform.o ./src/wave_generator_app.o  ./src/platform.d ./src/wave_generator_app.d  wave_generator_app.elf.size  wave_generator_app.elf
+' '
+21:29:58 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19804	   1144	  22568	  43516	   a9fc	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+21:30:00 **** Clean-only build of configuration Debug for project wave_generator_app ****
+make clean 
+rm -rf  ./src/platform.o ./src/wave_generator_app.o  ./src/platform.d ./src/wave_generator_app.d  wave_generator_app.elf.size  wave_generator_app.elf
+' '
+21:30:00 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19804	   1144	  22568	  43516	   a9fc	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+21:30:56 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+../src/wave_generator_app.c: In function 'main':
+../src/wave_generator_app.c:56:2: error: 'finalAddr' undeclared (first use in this function); did you mean 'finalAddress'?
+  finalAddr = memoryAddress;
+  ^~~~~~~~~
+  finalAddress
+../src/wave_generator_app.c:56:2: note: each undeclared identifier is reported only once for each function it appears in
+../src/wave_generator_app.c:60:32: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+   printf("Address: %x, Value: %d \n\r", i);
+                               ~^
+../src/wave_generator_app.c:34:6: warning: variable 'memoryRead' set but not used [-Wunused-but-set-variable]
+  int memoryRead;
+      ^~~~~~~~~~
+../src/wave_generator_app.c:31:6: warning: unused variable 'finalAddress' [-Wunused-variable]
+  int finalAddress;
+      ^~~~~~~~~~~~
+make: *** [src/subdir.mk:26: src/wave_generator_app.o] Error 1
+21:31:23 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+../src/wave_generator_app.c: In function 'main':
+../src/wave_generator_app.c:56:2: error: 'finalAddr' undeclared (first use in this function); did you mean 'finalAddress'?
+  finalAddr = memoryAddress;
+  ^~~~~~~~~
+  finalAddress
+../src/wave_generator_app.c:56:2: note: each undeclared identifier is reported only once for each function it appears in
+../src/wave_generator_app.c:60:32: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+   printf("Address: %x, Value: %d \n\r", i);
+                               ~^
+../src/wave_generator_app.c:34:6: warning: variable 'memoryRead' set but not used [-Wunused-but-set-variable]
+  int memoryRead;
+      ^~~~~~~~~~
+../src/wave_generator_app.c:31:6: warning: unused variable 'finalAddress' [-Wunused-variable]
+  int finalAddress;
+      ^~~~~~~~~~~~
+make: *** [src/subdir.mk:26: src/wave_generator_app.o] Error 1
+21:32:15 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+../src/wave_generator_app.c: In function 'main':
+../src/wave_generator_app.c:60:32: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+   printf("Address: %x, Value: %d \n\r", i);
+                               ~^
+../src/wave_generator_app.c:34:6: warning: variable 'memoryRead' set but not used [-Wunused-but-set-variable]
+  int memoryRead;
+      ^~~~~~~~~~
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56976	   2584	  23328	  82888	  143c8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+21:32:50 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56976	   2584	  23328	  82888	  143c8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+21:32:55 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56976	   2584	  23328	  82888	  143c8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+21:33:19 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:58:01 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:42:57 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:43:22 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:43:59 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56976	   2584	  23328	  82888	  143c8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+22:56:28 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56976	   2584	  23328	  82888	  143c8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+22:56:52 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:57:54 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56976	   2584	  23328	  82888	  143c8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+22:58:18 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:00:10 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56976	   2584	  23328	  82888	  143c8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+23:00:26 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56912	   2584	  23328	  82824	  14388	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+23:00:35 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:06:08 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56912	   2584	  23328	  82824	  14388	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+00:04:22 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56992	   2584	  23328	  82904	  143d8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+00:04:36 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+00:05:01 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56992	   2584	  23328	  82904	  143d8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+00:05:08 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56992	   2584	  23328	  82904	  143d8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+00:05:20 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+01:20:51 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56992	   2584	  23328	  82904	  143d8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+01:21:31 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+01:24:49 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56992	   2584	  23328	  82904	  143d8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+01:24:55 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+01:25:41 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56992	   2584	  23328	  82904	  143d8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+01:25:48 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+01:26:37 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56992	   2584	  23328	  82904	  143d8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+01:26:43 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+01:27:07 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56992	   2584	  23328	  82904	  143d8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+01:27:18 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+01:28:46 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+01:33:22 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56968	   2584	  23328	  82880	  143c0	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+01:33:34 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+01:34:18 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56960	   2584	  23328	  82872	  143b8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+01:34:23 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+01:41:28 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56968	   2584	  23328	  82880	  143c0	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+01:41:34 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+02:04:19 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56960	   2584	  23328	  82872	  143b8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+02:04:30 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+02:19:30 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56968	   2584	  23328	  82880	  143c0	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+02:19:36 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+03:31:17 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56968	   2584	  23328	  82880	  143c0	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+03:31:23 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+03:33:11 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56992	   2584	  23328	  82904	  143d8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+03:33:17 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+03:55:25 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56968	   2584	  23328	  82880	  143c0	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+03:55:30 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+03:56:34 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56968	   2584	  23328	  82880	  143c0	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+03:56:45 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+03:57:30 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56968	   2584	  23328	  82880	  143c0	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+03:57:36 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+03:58:01 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56968	   2584	  23328	  82880	  143c0	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+03:58:13 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+03:59:10 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56968	   2584	  23328	  82880	  143c0	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+03:59:21 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+03:59:50 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+04:09:34 **** Auto Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/wave_generator_app.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/wave_generator_app.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../wave_generator_app_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/wave_generator_app.d" -MT"src/wave_generator_app.o" -o "src/wave_generator_app.o" "../src/wave_generator_app.c"
+'Finished building: ../src/wave_generator_app.c'
+' '
+'Building target: wave_generator_app.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../wave_generator_app_bsp/ps7_cortexa9_0/lib -o "wave_generator_app.elf"  ./src/platform.o ./src/wave_generator_app.o   -lm -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: wave_generator_app.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size wave_generator_app.elf  |tee "wave_generator_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  56992	   2584	  23328	  82904	  143d8	wave_generator_app.elf
+'Finished building: wave_generator_app.elf.size'
+' '
+04:09:43 **** Incremental Build of configuration Debug for project wave_generator_app ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
