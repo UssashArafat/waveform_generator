@@ -22,6 +22,16 @@
 
 ![](ResourceFiles/flow.JPG)
 
+-------------------------------------------------------------------------------------------------------------
+### Serial Communication Settings
+* Connection type: Serial
+* Port: COM4
+* Baud Rate: 115200
+* Data bits: 8
+* Stop bits: 1
+* Parity: None
+* Flow Control: None
+---------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------
 ### UART output and data table
 
@@ -29,7 +39,7 @@
 * Drop value = 15
 * Step horizontal value = 2
 * Step vertical value = 1
-* period = 40
+* Period = 40
 
 ![](ResourceFiles/data1.JPG)
 
@@ -41,7 +51,7 @@
 * Drop value = 15
 * Step horizontal value = 2
 * Step vertical value = 1
-* period = 40
+* Period = 40
 ![](ResourceFiles/c1w.JPG)
 
 #### case 02
@@ -49,7 +59,7 @@
 * Drop value = 75
 * Step horizontal value = 10
 * Step vertical value = 5
-* period = 200
+* Period = 200
 ![](ResourceFiles/c2w.JPG)
 
 #### case 03
@@ -57,5 +67,5 @@
 * Drop value = 800
 * Step horizontal value = 50
 * Step vertical value = 100
-* period = 500
+* Period = 500
 ![](ResourceFiles/c3w.JPG)
