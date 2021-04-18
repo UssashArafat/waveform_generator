@@ -1,5 +1,5 @@
 # Waveform Generator
-### The system which is consist of  hardware and software generates a periodic waveform which is define by final value, drop value, step horizontal value, step vertical value and period .
+### The system which is consist of  hardware and software generates a periodic waveform which is define by final value, drop value, step horizontal value, step vertical value and period.
 -------------------------------------------------------------------------------------------------------------------
 ### Tools:  	
 * Vivado 2019.1
